@@ -6,6 +6,9 @@ Here is a great list of some of the SCS's team's favorite resources. In addition
   - Online search engine for internet scanning
   - https://www.pen-testing.sans.org/blog/2015/12/08/effective-shodan-searches
 
+- https://en.wikipedia.org/wiki/Google_hacking
+  - Great read on Google hacking and its immense power
+
 - https://krebsonsecurity.com/
   - Investigative journalism on cyber security and cyber crime, always a great read
 
