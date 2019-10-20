@@ -21,12 +21,18 @@ Each category has a variety of resources specific to that topic. In addition, th
   - Penetration testing OS distribution (free!)
 
 - https://picoctf.com/learning_guides/Book-1-General-Skills.pdf
-  - Learning guide on a core skill of CTFs -- the command line
+  - Learning guide on a core skill of CTFs -- **the command line**
 
 ## So how do I start participating in CTFs?
 
 The road to CTFs is going to be challenging and rewarding. Persistence and patience will be the only way you will successfully build your hacking skills.
 
-Begin by making sure you have your basics done and are comfortable with the Linux command line (guide above). Once done begin to check out the picoCTF competition, a CTF competition recommended for beginners.
+Begin by making sure you have your basics down and are comfortable with the Linux command line (guide above). Once done begin to check out the picoCTF competition, a CTF competition recommended for beginners.
 
  - https://www.picoctf.com/
+
+Once you get stuck on the picoCTF challenges, go read and learn from a write-up of the challenge question you are stuck on. Loop this process and you will see your skills grow exponentially.
+
+- https://tcode2k16.github.io/blog/posts/picoctf-2019-writeup/general-skills/
+
+Always feel free to reach out to the SCS Executive Team at ugascs[at]gmail.com, happy hacking!
