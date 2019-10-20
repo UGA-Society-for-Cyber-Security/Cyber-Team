@@ -6,8 +6,7 @@ Here is the SCS list of resources that are great for CTFs. It is broken into the
 2. Cryptography
 3. Forensics
 4. Reverse Engineering
-5. Steganography
-6. Web Exploitation
+5. Web Exploitation
 
 Each category has a variety of resources specific to that topic. In addition, there are some more general CTF resources below.
 
