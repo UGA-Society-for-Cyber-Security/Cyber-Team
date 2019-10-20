@@ -1,0 +1,1 @@
+This is a list of various resources that are useful for the Cyber Team. Many of these resources will seem intimidating intially, that is why it is important to keep an open mind and keep chopping away.
