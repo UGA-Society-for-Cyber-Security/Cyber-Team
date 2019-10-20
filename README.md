@@ -1,0 +1,1 @@
+This is the repository that will store the UGA SCS Cyber Team information, resources, and challenges.
