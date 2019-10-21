@@ -23,3 +23,6 @@ Here is a great list of some of the SCS's team's favorite resources. In addition
 
 - https://www.amanhardikar.com/mindmaps/Practice.html
   - Massive list of a wide variety of cyber resources
+
+- https://github.com/hslatman/awesome-threat-intelligence
+  - Massive list of cyber threat intelligence resources
