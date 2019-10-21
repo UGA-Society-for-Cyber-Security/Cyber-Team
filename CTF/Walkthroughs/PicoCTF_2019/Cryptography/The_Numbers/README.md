@@ -1,5 +1,7 @@
 # The Numbers
 
+`The numbers... what do they mean?`
+
 The Numbers is the first crypto challenge we get faced with. We are presented an image file that displays printed numbers.
 
 `16 9 3 15 3 20 6 { 20 8 5 14 21 13 2 5 18 19 13 1 19 15 14 }`
