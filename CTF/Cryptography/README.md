@@ -12,3 +12,12 @@ Cryptography is always a fun CTF challenge. You know the answer is sitting right
   - Python module for encoding and decoding
 
 
+#### Types of Ciphers we've encountered in CTFs
+
+- Caesar Cipher (ROT-13)
+- Vigenere Cipher
+- Substitution Cipher
+- XOR cipher
+- Base64
+
+
