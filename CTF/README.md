@@ -17,7 +17,13 @@ Each category has a variety of resources specific to that topic. In addition, th
   - List of upcoming CTF events
 
 - https://www.kali.org/
+  - Penetration testing OS distribution (free!) 
+
+- https://parrotlinux.org/index.php
   - Penetration testing OS distribution (free!)
+
+- https://blackarch.org/
+  - More advanced penetration testing OS distribution (free!)
 
 - https://picoctf.com/learning_guides/Book-1-General-Skills.pdf
   - Learning guide on a core skill of CTFs -- **the command line**
