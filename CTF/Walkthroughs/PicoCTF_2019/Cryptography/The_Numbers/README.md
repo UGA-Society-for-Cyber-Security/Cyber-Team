@@ -21,6 +21,6 @@ T | 20
 
 Do you notice a pattern? If not the way I aligned the table should help you out.
 
-The letters correspond to their positions this cipher is called an A1Z26 cipher. You can go [here](https://cryptii.com/) to find a decoder.
+The letters correspond to their positions; this cipher is called an A1Z26 cipher. You can go [here](https://cryptii.com/) to find a decoder.
 
 Once we decode the provided numbers we find out that the flag is `PICOCTF{THENUMBERSMASON}`
