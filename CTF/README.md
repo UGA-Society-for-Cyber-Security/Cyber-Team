@@ -28,6 +28,9 @@ Each category has a variety of resources specific to that topic. In addition, th
 - https://picoctf.com/learning_guides/Book-1-General-Skills.pdf
   - Learning guide on a core skill of CTFs -- **the command line**
 
+- http://overthewire.org/wargames/bandit/
+  - Beginner friendly wargame/capture-the-flag (great for getting familiar with the command line)
+
 ## So how do I start participating in CTFs?
 
 The road to CTFs is going to be challenging and rewarding. Persistence and patience will be the only way you will successfully build your hacking skills.
