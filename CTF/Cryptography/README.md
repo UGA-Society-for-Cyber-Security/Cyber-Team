@@ -10,6 +10,8 @@ Cryptography is always a fun CTF challenge. You know the answer is sitting right
 - https://gchq.github.io/CyberChef/
 - https://docs.python.org/2/library/codecs.html
   - Python module for encoding and decoding
+- https://guballa.de/vigenere-solver
+  - Great for breaking Vigenere ciphers (not in English)
 
 
 #### Types of Ciphers we've encountered in CTFs
