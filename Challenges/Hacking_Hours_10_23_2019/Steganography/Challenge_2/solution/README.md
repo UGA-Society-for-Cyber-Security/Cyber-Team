@@ -1,5 +1,4 @@
 # Solution
-## Don't read if you want spoilers!!
 
 This steg challenge hid a flag within an image file. However, this time the flag was hidden within the middle of the picture, making it a pain to find when parsing the image in a text editor. 
 

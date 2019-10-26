@@ -1,5 +1,4 @@
 # Solution
-## Don't read if you want spoilers!!
 
 This ciphertext is extremely long and complex. It would takes ages to decode by hand. However the hints indicate to use that this is the undecipherable cipher, the Vigenere Cipher.
 
