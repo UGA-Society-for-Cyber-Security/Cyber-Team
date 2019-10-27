@@ -1,5 +1,4 @@
 # Solution
-## Don't read if you want spoilers!!
 
 This steg challenge hid a flag within an image file. Thankfully, the flag is not hidden well within the image file.
 

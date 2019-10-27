@@ -1,5 +1,4 @@
 # Solution
-## Don't read if you want spoilers!!
 
 This first cryptography problem is a Caesar cipher, more specifically a ROT-13 cipher.
 

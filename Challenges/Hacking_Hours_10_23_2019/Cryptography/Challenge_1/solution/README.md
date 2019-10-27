@@ -1,5 +1,4 @@
 # Solution
-## Don't read if you want spoilers!!
 
 This first cryptography problem is a form of Base64
 
