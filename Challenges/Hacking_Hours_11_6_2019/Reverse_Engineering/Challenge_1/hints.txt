@@ -1,0 +1,5 @@
+1. Often used to help hide malware
+
+2. Reverse Engineering resources on our github might be very useful
+
+3. I love `strings`
