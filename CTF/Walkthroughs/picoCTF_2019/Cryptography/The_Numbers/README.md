@@ -1,6 +1,6 @@
 # The Numbers
 
-`The numbers... what do they mean?`
+> The numbers... what do they mean?
 
 The Numbers is the first crypto challenge we get faced with. We are presented an image file that displays printed numbers.
 
