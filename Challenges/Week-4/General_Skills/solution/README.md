@@ -8,5 +8,5 @@ To complete this challenge, we need to try every single combination of a 4 digit
 
 A solution can be found in `solve.py`
 
-`ugascs{b1n4ry_exp1oit}`
+`ugascs{bru7e_f0rc3}`
 
