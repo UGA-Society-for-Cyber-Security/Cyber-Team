@@ -1,4 +1,6 @@
 #!/usr/bin/python
 
-print('Saying hello to our sweet world')
+print('Whoa wait? This isn\'t the same as last time!')
+
+
 
