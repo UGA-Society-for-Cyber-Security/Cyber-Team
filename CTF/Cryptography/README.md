@@ -21,5 +21,8 @@ Cryptography is always a fun CTF challenge. You know the answer is sitting right
 - Substitution Cipher
 - XOR cipher
 - Base64
+- Rails Encryption
+- Atbash Cipher
+
 
 
