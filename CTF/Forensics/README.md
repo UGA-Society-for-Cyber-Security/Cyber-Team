@@ -4,3 +4,5 @@ Forensics is all about finding the hidden stuff. In addition, there is a subcate
 
 - https://picoctf.com/learning_guides/Book-4-Forensics.pdf
 - https://trailofbits.github.io/ctf/forensics/
+- https://www.garykessler.net/library/file_sigs.html
+  - File signatures ("magic bytes") database
