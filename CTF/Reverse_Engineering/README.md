@@ -16,4 +16,6 @@ Reverse Engineering is generally considered one of the more difficult CTF tasks.
   - GNU Debugger
 - https://github.com/pwndbg/pwndbg
   - Tool that improves on GDB
+- https://www.tutorialspoint.com/assembly_programming/index.htm
+  - Assembly Programming Tutorial
 
