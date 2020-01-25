@@ -8,7 +8,7 @@ int main(int argc, char * argv[]){
 
     var = 1;
 
-    for(i=0, i < 7; i++){
+    for(i=0; i < 7; i++){
         printf("Hello World!");
         var = var * 2;
     }
