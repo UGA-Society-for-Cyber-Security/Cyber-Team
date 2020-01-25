@@ -70,5 +70,23 @@ Well it looks like quite a bit is going on here. I won't cover most of these in 
 
 ### Disassembly
 
+Before we begin to disassemble out code we are going to set our disassembly flavor to Intel. By default gdb disassembles into the AT&T flavor. This isn't so much a requirement as it is a personal preference.
+
+To do this we can give the following command to gdb.
+
+```
+(gdb) set disassembly-flavor intel
+```
+
+After running that command we are ready to disassemble!
+
+```
+(gdb) disassemble main
+```
+
+
+
+
+
 [tutorial]: https://web.eecs.umich.edu/~sugih/pointers/summary.html
 [documentation]: https://sourceware.org/gdb/current/onlinedocs/gdb/
