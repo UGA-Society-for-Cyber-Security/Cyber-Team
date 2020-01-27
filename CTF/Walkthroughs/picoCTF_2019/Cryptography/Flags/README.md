@@ -2,7 +2,7 @@
 
 > What do the flags mean?
 
-If you are not familiar with nautical things this challenge might've stumped you at first. However, if you have ever been to arena you probably instantly knew where to look. The image given to us depicts a bunch of nautical flags.
+If you are not familiar with nautical things this challenge might've stumped you at first. However, if you have ever been to a marina you probably instantly knew where to look. The image given to us depicts a bunch of nautical flags.
 
 ![Nautical Flags](flag.png)
 
