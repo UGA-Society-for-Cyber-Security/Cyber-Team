@@ -18,4 +18,5 @@ Reverse Engineering is generally considered one of the more difficult CTF tasks.
   - Tool that improves on GDB
 - https://www.tutorialspoint.com/assembly_programming/index.htm
   - Assembly Programming Tutorial
-
+- https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation
+  - Interactive buffer overflow
