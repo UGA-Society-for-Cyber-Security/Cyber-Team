@@ -32,3 +32,6 @@ Here is a great list of some of the SCS's team's favorite resources. In addition
 
 - http://www.cs.cmu.edu/~112/schedule.html
   - Free Beginner Course on Python
+
+- https://archive.org/details/comp3321/mode/2up/search/device
+  - NSA Python Training Course on the Internet Archive
