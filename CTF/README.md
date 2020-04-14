@@ -16,6 +16,9 @@ Each category has a variety of resources specific to that topic. In addition, th
 - https://ctftime.org/event/list/upcoming
   - List of upcoming CTF events
 
+- https://captf.com/practice-ctf/
+  - List of practice CTF sites
+
 - https://www.kali.org/
   - Penetration testing OS distribution (free!) 
 

@@ -4,25 +4,38 @@
 
 Cryptography is always a fun CTF challenge. You know the answer is sitting right in front of you! Here are some great resources for cryptography challenges.
 
+Sometimes, online decoders won't work for one reason or another. The key is keep trying more and more if you are confident that you have found the correct encryption cipher.
+
 - https://picoctf.com/learning_guides/Book-2-Cryptography.pdf
 - https://quipqiup.com/
+  - Great tool overall
 - https://www.dcode.fr/tools-list
 - https://gchq.github.io/CyberChef/
+  - Go-to for any decryption purposes
 - https://docs.python.org/2/library/codecs.html
   - Python module for encoding and decoding
 - https://guballa.de/vigenere-solver
   - Great for breaking Vigenere ciphers (not in English)
-
+-http://rumkin.com/tools/cipher/
+  - Rumkin offered a railfence cipher decoder that worked better than Cyber Chef
 
 #### Types of Ciphers we've encountered in CTFs
 
 - Caesar Cipher (ROT-13)
+  - Often maintains the English language syntax
 - Vigenere Cipher
+  - Encoded with a key, sometimes the key is just "CTF" or the acronym of the competition
 - Substitution Cipher
+  - Maintains the English language syntax
 - XOR cipher
 - Base64
-- Rails Encryption
+  - Has "=*" padding as a tell-tale sign
+- Rails Encryption (Rails Fence)
+  - Looks off-putting, usually does not appear to look like English language syntax
 - Atbash Cipher
+  - "Monoalphabetic substituion cipher originally used to encrypt the Hebrew alphabet" -- Wikipedia
+- A different language
+  - One time the ciphertext was just the Dutch language...
 
 
 
